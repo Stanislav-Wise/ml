@@ -1,5 +1,7 @@
 def my_function():
     print("Hello from my_function!")
+    print("Hello from my_function!")
+    print("Hello from my_function!")
 
 
 if __name__ == '__main__':
